@@ -1,0 +1,14 @@
+page:
+  title: "My First Page"
+  body:
+    - type: "header"
+      text: "Welcome"
+    - type: "paragraph"
+      text: "Hello, World!"
+    - type: "comment"
+      text: "This is a comment!"
+    - type: "link"
+      text: "epic"
+      url: "https://google.com"
+    - type: "abbreviation"
+      text: "Test"
